@@ -9,4 +9,4 @@ Used Stack and Positioned for the layout
 Used Transform.rotate for the rotated flaps
 Used Image.network() for the cat png.
 
-![Flutter Netflix UI](animation.gif)
+![Cat In A Box Animation](./animation.gif)
