@@ -10,6 +10,6 @@ Used Transform.rotate for the rotated flaps
 Used Image.network() for the cat png.
 
 ![Cat In A Box Animation](animation.gif)
-![DOWNLOAD APK](build\app\outputs\flutter-apk\app-release.apk)
+![DOWNLOAD APK](app-release.apk)
 
 
