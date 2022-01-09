@@ -8,3 +8,5 @@ Used Animation, AnimationController, Tween and AnimationBuilder for the cat and 
 Used Stack and Positioned for the layout
 Used Transform.rotate for the rotated flaps
 Used Image.network() for the cat png.
+
+![Flutter Netflix UI](animation.gif)
